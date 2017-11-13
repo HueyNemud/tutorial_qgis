@@ -4,5 +4,5 @@ This tutorial and all of its content is released under Creative Commons BY-NC-SA
 Feel free to change, reuse modify and extend it.
 For non-commercial use only.
 
-**License : https://creativecommons.org/licenses/by-nc-sa/4.0/
+**License : https://creativecommons.org/licenses/by-nc-sa/4.0/**
 
