@@ -5,7 +5,7 @@ Feel free to change, reuse modify and extend it.
 For non-commercial use only.
 
 # Overview (in french)
-*Currently, this tutorial is available only in french, sorry!*
+*Currently, this tutorial is available only in french, sorry! So is the overview ;)*
 
 Ce tutoriel QGIS a été conçu pour des étudiants de niveau Master en sciences sociales. Il s'adresse donc à un public débutant en SIG mais ayant déjà les bases de l'information géographique (représentation des entités géographiques, systèmes de coordonnées de référence). Le volume de travail est d'environ 4 à 6h.
 
