@@ -9,7 +9,7 @@ For non-commercial use only.
 
 Ce tutoriel QGIS a été conçu pour des étudiants de niveau Master en sciences sociales. Il s'adresse à un public débutant en SIG mais ayant déjà les bases de l'information géographique (représentation info. des entités géographiques, systèmes de coordonnées de référence). Le volume de travail est d'environ 4 à 6h.
 
-L'objectif pédagogique est de couvrir toutes les étapes d'un travail de cartographie à partir de données historiques (ici la carte de Cassini, datant du 18e siècle) en utilisant uniquement les outils graphiques offerts par QGIS.
+L'objectif pédagogique est de couvrir toutes les étapes d'un travail de cartographie à partir de données historiques -ici la feuille n°52 de la carte de Cassini, datant du 18e siècle- en utilisant uniquement les outils graphiques offerts par QGIS.
 L'objectif applicatif est la cartographie des zones d'habitat d'une partie du Puy de Dôme vers 1770.
 
 Le tutorial se compose de 4 exercices guidés :
