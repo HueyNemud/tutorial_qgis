@@ -12,11 +12,13 @@ Ce tutoriel QGIS a été conçu pour des étudiants de niveau Master en sciences
 L'objectif pédagogique est de couvrir toutes les étapes d'un travail de cartographie à partir de données historiques (ici la carte de Cassini, datant du 18e siècle) en utilisant uniquement les outils graphiques offerts par QGIS.
 L'objectif applicatif est la cartographie des zones d'habitat d'une partie du Puy de Dôme vers 1770.
 
-Le tutorial se compose de 4 exercices guidés:
+Le tutorial se compose de 4 exercices guidés :
 1. Géoréférencement de la feuille 52 de Cassini. (connaissances : prise en main de QGIS, géoréférencement, CRS)
 1. Numérisation des lieux ponctuels sur la feuille géoréférencée. (connaissances : MVC dans QGIS, modèle vecteur, vectorisation)
 1. Création des zones d'habitat à partir des lieux ponctuels. (connaissances : analyse spatiale, jointure spatiale)
 1. Cartographie des zones d'habitat. (connaissances : utilisation du composeur, symbolisation avec QGIS)
+
+Les exercices s'accompagnent de 18 questions de niveau variable, dont les réponses se trouvent en annexe du support.
 
 # About
 
