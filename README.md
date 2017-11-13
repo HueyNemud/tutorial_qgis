@@ -20,6 +20,6 @@ Le tutorial se compose de 4 exercices guidés:
 
 # About
 
-The scanned sheet of the Cassini map is from the french national library (BnF): http://gallica.bnf.fr/ark:/12148/btv1b530952243 and are in the public domain ([details in french](http://www.bnf.fr/fr/professionnels/anx_recuperation_donnees/a.ouverture_donnees_bnf.html))
+The scanned sheet of the Cassini map is from the french national library (BnF): http://gallica.bnf.fr/ark:/12148/btv1b530952243 and is in the public domain ([details in french](http://www.bnf.fr/fr/professionnels/anx_recuperation_donnees/a.ouverture_donnees_bnf.html))
 
 All vector geographic data are from the [GeoHistoricalData project](http://geohistoricaldadata.org) and are released under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/fr/). 
