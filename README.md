@@ -1,10 +1,8 @@
 # Licensing
 
-This tutorial and all of its content is released under Creative Commons Attribution-NonCommercial-ShareAlike-4.0.
+This tutorial and all of its content is released under [Creative Commons Attribution-NonCommercial-ShareAlike-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Feel free to change, reuse modify and extend it.
 For non-commercial use only.
-
-**License : https://creativecommons.org/licenses/by-nc-sa/4.0/**
 
 # Overview (in french)
 *Currently, this tutorial is available only in french.*
@@ -24,4 +22,4 @@ Le tutorial se compose de 4 exercices guidés:
 
 The scanned sheet of the Cassini map is from the french national library (BnF): http://gallica.bnf.fr/ark:/12148/btv1b530952243 and are in the public domain ([details in french](http://www.bnf.fr/fr/professionnels/anx_recuperation_donnees/a.ouverture_donnees_bnf.html))
 
-All vector geographic data are from the [GeoHistoricalData project](http://geohistoricaldadata.org) and are released under CC BY 2.0. 
+All vector geographic data are from the [GeoHistoricalData project](http://geohistoricaldadata.org) and are released under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/fr/). 
