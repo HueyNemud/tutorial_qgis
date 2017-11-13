@@ -1,7 +1,7 @@
 # LICENSING
 
-THIS TUTORIAL AND ALL OF ITS CONTENT IS RELEASED UNDER CREATIVE COMMONS BY-NC-SA.
+This tutorial and all of its content is released under Creative Commons BY-NC-SA 4.0.
+Feel free to change, reuse modify and extend it.
+For non-commercial use only.
+**License : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-FEEL FREE TO CHANGE, REUSE, MODIFY AND EXTEND IT.
-
-FOR NON-COMMERCIAL USE ONLY.
